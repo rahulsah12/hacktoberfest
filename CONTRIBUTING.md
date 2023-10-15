@@ -22,11 +22,6 @@ If you have any questions, please check our [FAQs](faqs.md) for answers.
 
 We have organized the project into different folders for various programming languages and web development. Choose the folder that suits your skills and interests:
 
-- [Python](Python/)
-- [C](C/)
-- [C++](C++/)
-- [Java](Java/)
-- [JavaScript](JavaScript/)
 - [Web Development](Web-Development/)
 
 If you are new to programming, we recommend starting with the "Web Development" folder.
