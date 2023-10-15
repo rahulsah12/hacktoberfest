@@ -1,6 +1,6 @@
 # Contribution Rules📚:
 
-Before you start contributing, please read our [Code of Conduct](codeofconduct.md). We expect all contributors to follow these guidelines to ensure a positive and inclusive community.
+Before you start contributing, please read our [Code of Conduct](code-of-conduct.md). We expect all contributors to follow these guidelines to ensure a positive and inclusive community.
 
 
 - Create an issue about the code or contributions you want to make.
@@ -22,7 +22,7 @@ If you have any questions, please check our [FAQs](faqs.md) for answers.
 
 We have organized the project into different folders for various programming languages and web development. Choose the folder that suits your skills and interests:
 
-- [Web Development](Web-Development/)
+- [Web Development](Web-Development/README.md)
 
 If you are new to programming, we recommend starting with the "Web Development" folder.
 
